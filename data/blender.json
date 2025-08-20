@@ -1,0 +1,25 @@
+{
+  "app": "Blender",
+  "categories": [
+    {
+      "name": "Navigation",
+      "items": [
+        {
+          "action": "Orbit view",
+          "shortcut_standard": "MMB drag",
+          "shortcut_trackpad": "Alt + LMB drag"
+        },
+        {
+          "action": "Pan view",
+          "shortcut_standard": "Shift + MMB drag",
+          "shortcut_trackpad": "Shift + Alt + LMB drag"
+        },
+        {
+          "action": "Zoom view",
+          "shortcut_standard": "Ctrl + MMB drag",
+          "shortcut_trackpad": "Ctrl + Alt + LMB drag"
+        }
+      ]
+    }
+  ]
+}

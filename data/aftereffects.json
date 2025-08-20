@@ -1,0 +1,18 @@
+{
+  "app": "After Effects",
+  "categories": [
+    {
+      "name": "General",
+      "items": [
+        {
+          "action": "Play/Pause Preview",
+          "shortcut_standard": "Space"
+        },
+        {
+          "action": "Duplicate",
+          "shortcut_standard": "Ctrl/Cmd + D"
+        }
+      ]
+    }
+  ]
+}

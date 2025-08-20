@@ -1,0 +1,18 @@
+{
+  "app": "Photoshop",
+  "categories": [
+    {
+      "name": "General",
+      "items": [
+        {
+          "action": "Brush Size Up/Down",
+          "shortcut_standard": "] / ["
+        },
+        {
+          "action": "Free Transform",
+          "shortcut_standard": "Ctrl/Cmd + T"
+        }
+      ]
+    }
+  ]
+}

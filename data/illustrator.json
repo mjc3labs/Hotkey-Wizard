@@ -1,0 +1,18 @@
+{
+  "app": "Illustrator",
+  "categories": [
+    {
+      "name": "General",
+      "items": [
+        {
+          "action": "Selection Tool",
+          "shortcut_standard": "V"
+        },
+        {
+          "action": "Direct Selection",
+          "shortcut_standard": "A"
+        }
+      ]
+    }
+  ]
+}
